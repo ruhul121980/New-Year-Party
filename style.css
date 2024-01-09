@@ -1,0 +1,527 @@
+.mydivA {
+    text-align: center;
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    background-image: url('./resources/Banner Image.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin:50px auto;
+   
+}
+.happy{
+    color:white;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-top:177px;
+font-weight: bold;
+padding-bottom: 0px
+}
+.newParty{
+    color: white;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px;
+font-weight: bold;
+padding-top: 0px
+
+}
+
+.newYear{
+
+color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.holiday{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.catgrs{
+    color: #070211;
+
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.newyrpic{
+
+    
+    
+    display:flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+
+}
+
+.welcome{
+    
+    
+    color:#FFF;
+    padding-top: 100px;
+    padding-left: 100px;
+
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px; 
+letter-spacing: 7.04px;
+}
+
+
+
+.welcomeText{
+    padding-left: 100px;
+    padding-top:0px;
+    
+    color: #FFF;
+
+
+}
+
+.btn-1{
+    margin-top: 30px;
+    margin-left: 130px;
+    color: #FFF;
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+border:0;
+background-color: black;
+
+}
+
+.welcomeBanner{
+    background-image: url("./resources/Vectorrr.png");
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background-size: cover;
+    margin:50px auto;
+    display: flex;
+}
+.twentyPic{
+    margin-top: 50px;
+    width: 105.853px;
+height: 147.494px;
+flex-shrink: 0;
+}
+.placeDetails {
+    text-align: center;
+    
+    width: 1320px;
+    height: 482px;
+    flex-shrink: 0;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    margin:120px auto;
+    font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px;
+    
+
+}   
+.placeDetail2{
+    padding:100px 386px 214px 385px;
+
+}
+
+.forRed{
+    color: #F00;
+
+}
+
+.btn-2{
+    margin:48px 32px 110px 32px;
+    color:white;
+    background-color: red;
+    border:0;
+    border-radius: 8px;
+    display: inline-flex;
+padding: 16px 32px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+
+
+}
+
+.mainDiv{
+    display: flex;
+    width: 1320px;
+    height: 482px;
+    margin:120px auto;
+    
+}
+
+.offerP-1{
+    color: #F00;
+
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.offerP-2{
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+
+}
+.offerP-3 {
+    width: 393px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter', sans-serif; 
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+.divForPic{
+    width: 463px;
+    height: 463px;
+    flex-shrink: 0;
+    border-radius: 463px;
+    border: 15px solid #F00;
+    padding: 20px;
+
+}
+.forPic{
+    width: 100%;
+  height: 100%;
+  object-fit: cover;
+    
+
+}
+.happy{
+    margin-top: 0px;
+}
+.happyP-1{
+    color: #F00;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+.happyP-2{
+    color: rgba(7, 2, 17, 0.60);
+
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; 
+}
+
+.offer,.divForPic{
+    margin-right: 70px;
+
+}
+.sale{
+    text-align: center;
+    margin:50px auto;
+    
+}
+.saleP-1{
+    color: #070211;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.saleP-2{
+    color: #F00;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+.saleP-3{
+    color: rgba(7, 2, 17, 0.60);
+    
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 32px; /* 160% */
+/*width: 1068px;*/
+
+}
+.mainSale{
+    margin: 50px auto;
+    width: 1320px;
+    height: 1110px;
+
+
+}
+
+.salePic-1{
+    width: 429px;
+height: 433px;
+flex-shrink: 0;
+
+}
+.discount{
+    display:flex;
+}
+.bestGift-p1{
+    color: #F00;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.bestGift-p2{
+    color: #070211;
+
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.bestGift-p3{
+    color: rgba(7, 2, 17, 0.60);
+
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+.portfolio img{
+
+    width: 424px;
+height: 450px;
+flex-shrink: 0;
+border-radius: 16px;
+
+}
+.portfolio1 img{
+    margin: 2.4px 2.4px 2.4px 2.4px;
+}
+.portfolio2 img{
+    margin:2.4px 2.4px 2.4px 2.4px;
+}
+.portfolio{
+width: 1320px;;
+height: 1140px;
+margin:50px auto;
+}
+.portfolio1{
+    display: flex;
+}
+
+.newsletter{
+    margin: 50px auto;
+    width: 1320px;
+height: 670px;
+flex-shrink: 0;
+border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);*/
+
+
+}
+.newsletter-1{
+    display: flex;
+    justify-content: center;
+    
+}
+.newsletter-1 img{
+    margin:80px auto 40px;
+    width: 150px;
+height: 150px;
+flex-shrink: 0;
+
+}
+.newsletter-p1{
+    color: #070211;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+
+}
+.newsletter-p2{
+    color: rgba(7, 2, 17, 0.60);
+    padding:23px 212px 23px 212px;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; 
+
+}
+.newsForm{
+    width: 640px;
+height: 70px;
+flex-shrink: 0;
+border-radius:50px 0px 0px 50px;
+background: #FFF;
+margin-left: 190px;
+color: rgba(7, 2, 17, 0.30);
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-left:40px;
+border:0;
+
+}
+.subscribe-btn{
+    width: 210px;
+height: 74px;
+flex-shrink: 0;
+border-radius: 0px 50px 50px 0px;
+background: #F00;
+color: #FFF;
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+border:0;
+
+}
+
+.footerDiv-1{
+    width: 1600px;
+    height: 609px;
+    flex-shrink: 0;
+    background: #070211;
+}
+.footerDiv-2{
+    display: flex;
+    justify-content: space-around;
+}
+.ftrSub-div1{
+    
+color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px;
+margin-top: 50px;
+
+
+}
+
+.ftrSub-div2{
+color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; 
+margin-top: 50px;
+}
+.divIcon{
+    display: flex;
+    justify-content: center;
+    margin-top:180px;
+    
+  
+}
+.divIcon img{
+    padding-right: 10px;
+
+}
+.rightDiv{
+    display: flex;
+    justify-content: space-around;
+}
+.rightSubDiv-1{
+    color: #FFF;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-top: 140px;
+}
+.rightSubDiv-2{
+    color: #FFF;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-top: 140px;
+margin-left:160px;
+
+}
+
+.Horizontal{
+    
+    width: 1320px;
+    height: 1px;
+    
+    background: rgba(255, 255, 255, 0.15);
+
+
+}
